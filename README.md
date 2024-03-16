@@ -1,3 +1,5 @@
+# BandWidth Monitor
+
 This Python script monitors the network bandwidth usage by calculating the amount of data received and sent over the network every second. It uses the psutil library to retrieve network I/O statistics.
 
 Requirements
